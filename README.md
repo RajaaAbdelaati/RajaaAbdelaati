@@ -10,14 +10,9 @@
 - ⚡ Fun fact: I’m a coffee lover and enjoy reading books
 
 ### Check out my work on CodePen:
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codepen.svg" width="50" height="50">](https://codepen.io/Rajaa9060)
+[<img src="[https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codepen.svg](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codepen.svg?color=6cb4ee&background=ffffff)" width="50" height="50">](https://codepen.io/Rajaa9060)
 
 ### Languages and Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40" title="Photoshop">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40" title="Photoshop">
 
 
