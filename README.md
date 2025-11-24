@@ -10,6 +10,12 @@
 - ⚡ Fun fact: I’m a coffee lover and enjoy reading books
 
 ### Check out my work on CodePen:
+<<<<<<< HEAD
+=======
+<a href="https://codepen.io/Rajaa9060" target="_blank">
+<img src="https://img.icons8.com/?size=100&id=20795&format=png&color=22C3E6" width="45" alt="CodePen Icon">
+</a>
+>>>>>>> ba48f04d4aca8d15e8bb3b986248fe5372e20ea3
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="55" height="55" alt="CodePen">](https://codepen.io/Rajaa9060)
 
