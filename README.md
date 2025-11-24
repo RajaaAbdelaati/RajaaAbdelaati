@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on web development projects
 - 💬 Ask me about Html, Css, Responsive website, Git, Command line, C++
 - 📫 How to reach me: <a href="mailto:rajaaabdelaati@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rajaaabdelaati@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" width="180"/>
+  <img src="https://img.shields.io/badge/Email-rajaaabdelaati@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" width="230"/>
   </a>
 - ⚡ Fun fact: I’m a coffee lover and enjoy reading books
 
