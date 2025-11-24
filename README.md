@@ -1,11 +1,11 @@
-# Hi there 👋 I am **Rajaa Abdelaati**
+# Hi there 👋 I'm **Rajaa Abdelaati**
 
 - 👩‍🎓 I’m currently a senior student in the Faculty of Information Systems & Aspiring Front-End Developer.
 - 🌱 I’m currently learning JavaScript and I apply and solve challenges using Html and Css
 - 👯 I’m looking to collaborate on web development projects
 - 💬 Ask me about Html, Css, Responsive website, Git, Command line, C++
 - 📫 How to reach me: <a href="mailto:rajaaabdelaati@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rajaaabdelaati@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-rajaaabdelaati@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" width="150"/>
   </a>
 - ⚡ Fun fact: I’m a coffee lover and enjoy reading books
 
