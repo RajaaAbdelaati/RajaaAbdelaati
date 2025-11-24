@@ -1,4 +1,4 @@
-## Hi there 👋 I am Rajaa Abdelaati
+# Hi there 👋 I am **Rajaa Abdelaati**
 
 - 👩‍🎓 I’m currently a senior student in the Faculty of Information Systems & Aspiring Front-End Developer.
 - 🌱 I’m currently learning JavaScript and I apply and solve challenges using Html and Css
@@ -10,12 +10,6 @@
 - ⚡ Fun fact: I’m a coffee lover and enjoy reading books
 
 ### Check out my work on CodePen:
-<<<<<<< HEAD
-=======
-<a href="https://codepen.io/Rajaa9060" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=20795&format=png&color=22C3E6" width="45" alt="CodePen Icon">
-</a>
->>>>>>> ba48f04d4aca8d15e8bb3b986248fe5372e20ea3
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="55" height="55" alt="CodePen">](https://codepen.io/Rajaa9060)
 
@@ -31,7 +25,7 @@
 
 ## 🌐 Internet:
 
-Learn how the internet and browsers work before starting the front-end learning path.
+_Learn how the internet and browsers work before starting the front-end learning path._
 
 - [ ] How does the internet work
 - [ ] what is http
@@ -44,28 +38,28 @@ Learn how the internet and browsers work before starting the front-end learning 
 
 ## HTML:
 
-- [ ] Studying an HTML course from Coursera
-- [ ] Studying Advanced Course
+- [x] Studying an HTML course from Coursera
+- [x] Studying Advanced Course
 - [ ] Complete the information and delve deeper into HTML
 
 ---
 
 ## CSS:
 
-- [ ] CSS Basics
-- [ ] Flex Box
-- [ ] CSS Grid
-- [ ] Transform
-- [ ] Animation
-- [ ] Media Queries
+- [x] CSS Basics
+- [x] Flex Box
+- [x] CSS Grid
+- [x] Transform
+- [x] Animation
+- [x] Media Queries
 
 ---
 
 ## Projects:
 
-At this stage, I will create projects using only HTML and CSS.
+_At this stage, I will create projects using only HTML and CSS._
 
-- [ ] Elzero HTML And CSS Template 1
+- [x] Elzero HTML And CSS Template 1
 - [ ] Elzero HTML And CSS Template 2
 - [ ] Elzero HTML And CSS Template 3
 - [ ] Elzero HTML And CSS Template 4
@@ -80,7 +74,7 @@ At this stage, I will create projects using only HTML and CSS.
 
 ## 🏆 Challenges:
 
-Complete challenges using only HTML and CSS.
+_Complete challenges using only HTML and CSS._
 
 - [ ] Complete 11 Very Easy Challenges From Elzero Web School Website
 - [ ] Complete 31 Easy Challenges From Elzero Web School Website
@@ -110,15 +104,15 @@ Complete challenges using only HTML and CSS.
 
 ## 🧠 Problem Solving:
 
-At this stage I will solve problems of very easy to easy level.
+_At this stage I will solve problems of very easy to easy level._
 
--[ ] Solve at least 300 Problem
+- [ ] Solve at least 300 Problem
 
 ---
 
 ## Projects:
 
-At this stage, I will be creating projects using only JavaScript, without any framework.
+_At this stage, I will be creating projects using only JavaScript, without any framework._
 
 - [ ] Implementing projects using JavaScript
 
@@ -134,7 +128,7 @@ At this stage, I will be creating projects using only JavaScript, without any fr
 
 ## SASS:
 
-Learn SASS to add programming language features to CSS code.
+_Learn SASS to add programming language features to CSS code._
 
 - [ ] learning SASS
 - [ ] Implement Website 1 Using SASS
@@ -151,9 +145,9 @@ Learn SASS to add programming language features to CSS code.
 
 ## 🛠️ Important Skills:
 
-- [ ] Learn Command Line
-- [ ] Learn Version Control (Git)
-- [ ] Learn VCS Hosting (Git hub)
+- [x] Learn Command Line
+- [x] Learn Version Control (Git)
+- [x] Learn VCS Hosting (Git hub)
 
 ---
 
@@ -167,7 +161,7 @@ Learn SASS to add programming language features to CSS code.
 
 ## Pugjs:
 
-Learn Pugjs to get the benefits of programming languages ​​while writing HTML code.
+_Learn Pugjs to get the benefits of programming languages ​​while writing HTML code._
 
 - [ ] Learn Pugjs Template Engine
 
@@ -175,7 +169,7 @@ Learn Pugjs to get the benefits of programming languages ​​while writing HTM
 
 ## Gulpjs:
 
-Learn Gulp js to automate repetitive tasks for me
+_Learn Gulp js to automate repetitive tasks for me_
 
 - [ ] Learn Gulpjs
 
@@ -214,5 +208,5 @@ Learn Gulp js to automate repetitive tasks for me
 - [ ] Linkedin Profile
 - [ ] CV
 - [ ] Design my website
-- [ ] Develope my Website
+- [ ] Develop my Website
 - [ ] Upload to hostinger
