@@ -60,7 +60,7 @@ _Learn how the internet and browsers work before starting the front-end learning
 _At this stage, I will create projects using only HTML and CSS._
 
 - [x] Elzero HTML And CSS Template 1
-- [ ] Elzero HTML And CSS Template 2
+- [x] Elzero HTML And CSS Template 2
 - [ ] Elzero HTML And CSS Template 3
 - [ ] Elzero HTML And CSS Template 4
 - [ ] HTML And CSS Template 5
