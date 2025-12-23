@@ -63,7 +63,7 @@ _At this stage, I will create projects using only HTML and CSS._
 - [x] Elzero HTML And CSS Template 2
 - [ ] Elzero HTML And CSS Template 3
 - [ ] Elzero HTML And CSS Template 4
-- [ ] HTML And CSS Template 5
+- [x] HTML And CSS Template 5 (Fesco Restaurant)
 - [ ] HTML And CSS Template 6
 - [ ] HTML And CSS Template 7
 - [ ] HTML And CSS Template 8
